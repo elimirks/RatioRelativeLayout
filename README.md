@@ -10,9 +10,10 @@ XML layout example:
 		android:layout_height="wrap_content"
 		heightRatio="0.75"
 	>
-		<TextView
+		<View
 			android:layout_width="25dp"
 			android:layout_height="match_parent"
+			android:background="#f00"
 		/>
 	</my.package.RatioRelativeLayout>
 
