@@ -1,4 +1,4 @@
-package ca.carpages.carpagesconsumer;
+package /* Your package */;
 
 import android.os.Bundle;
 import android.view.View;
